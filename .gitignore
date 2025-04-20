@@ -3,4 +3,3 @@ lib/firebase/config.js
 .firebase/
 node_modules/
 .env
-unpack

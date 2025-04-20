@@ -24,7 +24,7 @@ function useUserSession(initialUser) {
       window.location.reload();
     });
   }, [initialUser]);
-  
+
   return initialUser;
 }
 

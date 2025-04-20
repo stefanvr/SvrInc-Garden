@@ -1,7 +1,6 @@
 {
   "extends": ["eslint:recommended", "next", "prettier"],
   "rules": {
-    "@next/next/no-img-element": "off",
-    "no-unused-vars": "off"
+    "@next/next/no-img-element": "off"
   }
 }
